@@ -7,7 +7,7 @@ output: html_document
 
 This is a submission for Coursera: Developing Data Products- Course Project
 
-Storm Database Explorer
+Storm Data Explorer
 ==================
 
 This application is based on the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database.
@@ -18,7 +18,6 @@ Storms and other severe weather events can cause both public health and economic
 
 Source code for the project is available on the [GitHub](https://github.com/PARAMA34/Dev_DataProds).
 
-The presentation for the project can be found [here](http://rpubs.com/senthilkumar_k/49447)
+The presentation for the project can be found [here] (http://rpubs.com/PARAMA34/DDP_Assignment)
 
 You can adjust date range and event types using control panel located on the left side.The result is shown in the main pannel on the right sideof the page.
-Also filtered dataset can be downloaded using data tab.
